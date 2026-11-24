@@ -1,0 +1,8 @@
+# Osobni podaci – nikad u repozitorij
+*.xlsx
+*.xls
+*.csv
+node_modules/
+dist/
+.env*
+!.env.example
